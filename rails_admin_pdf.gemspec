@@ -7,11 +7,11 @@ require "rails_admin_pdf/version"
 Gem::Specification.new do |s|
   s.name        = "rails_admin_pdf"
   s.version     = RailsAdminPdf::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of RailsAdminPdf."
-  s.description = "TODO: Description of RailsAdminPdf."
+  s.authors     = ["Steph Skardal"]
+  s.email       = ["steph@endpoint.com"]
+  s.homepage    = "http://www.endpoint.com/"
+  s.summary     = "PDF Functionality for RailsAdmin."
+  s.description = "PDF Functionality for RailsAdmin."
 
   s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.md"]
 
